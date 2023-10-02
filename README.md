@@ -5,9 +5,9 @@ Please note that using such a tool on networks and systems you don't own or have
 
 ## Usage
   1. Run the script using Python 3.x.
-    ```bash
-      python port_scanner.py
-    ```
+  ```bash
+    python port_scanner.py
+  ```
 
   2. The script will prompt you for the following information:
     - Target host (IP address or domain name): Enter the IP address or domain name of the target you want to scan.
