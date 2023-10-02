@@ -23,7 +23,7 @@ Please note that using such a tool on networks and systems you don't own or have
   - Requests library (install using pip install requests)
 
 ## Author
-  This script was created by Technobeast (@TechnobeastOP on Telegram).
+  This script was created by Technobeast.
 
 ## Disclaimer
 
